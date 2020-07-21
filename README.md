@@ -1,4 +1,4 @@
-### Hi I'm Pablo 👋:tech
+### Hi I'm Pablo 👋
 
 ```js
 const pablogarzon1969 = {
