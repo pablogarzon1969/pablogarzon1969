@@ -1,5 +1,14 @@
-### Hi there 👋
+### Hi I'm Pablo 👋:tech
 
+```js
+const pablogarzon1969 = {
+  pronouns: "he" | "his",
+  code: [Javascript, Typescript, HTML, Python, C#, Kotlin, PHP],
+  tools: [React, Redux, Node, Angular, Ngrx, NestJS, Docker, Kubernetes, Cypress, Visual Studio],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+}
+```
+![Pablo github stats](https://github-readme-stats.vercel.app/api?username=pablogarzon1969&show_icons=true&theme=radical)
 <!--
 **pablogarzon1969/pablogarzon1969** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
